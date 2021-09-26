@@ -69,9 +69,9 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #header #hgroup h1{font-size:46px;}
 #header #hgroup h2{font-size:16px;}
 
-#header nav{display:block; width:100%; margin:0; padding:20px 0; border-top:1px solid #DEDEDE; border-bottom:1px solid #DEDEDE; }
+#header nav{display:block; width:100%; margin:0; padding:20px 0; border-top:1px solid #DEDEDE; border-bottom:1px solid #DEDEDE;}
 #header nav ul{}
-#header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
+#header nav li{display:inline; margin-right:100px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
 #header nav li a{}
 #header nav li a:hover{color:rgb(24, 69, 59); background-color:#FFFFFF;}
@@ -141,3 +141,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #container #page #latest ul li article figure figcaption{display:block; float:right; width:410px;}
 #container #page #latest ul li article figure h2{font-size:14px;}
 #container #page #latest ul li article figure footer{}
+
+
+/* -----Replace whole background color-----*/
+/*{background-color:#F4FBFA}
