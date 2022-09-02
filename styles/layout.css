@@ -32,7 +32,7 @@ img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;
 
 address, article, aside, figcaption, figure, footer, header, nav, section{display:block; margin:0; padding:0;}
 
-q{display:block; padding:0 10px 8px 10px; color:#979797; background-color:#ECECEC; font-style:italic; line-height:normal;}
+q{display:block; padding:0 10px 8px 10px; color:#979797; background-color:##F4FBFA; font-style:italic; line-height:normal;}
 q:before{content:'� '; font-size:26px;}
 q:after{content:' �'; font-size:26px; line-height:0;}
 
@@ -40,11 +40,11 @@ q:after{content:' �'; font-size:26px; line-height:0;}
 
 div.wrapper{display:block; width:960px; margin:0 auto; padding:5px; text-align:left;}
 
-.row1, .row1 a{color:#555555; background-color:#FFFFFF;}
-.row2{color:#555555; background-color:#FFFFFF;}
-.row2 a{color:rgb(24, 69, 59); background-color:#FFFFFF;}
+.row1, .row1 a{color:#555555; background-color:#F4FBFA;}
+.row2{color:#555555; background-color:#F4FBFA;}
+.row2 a{color:rgb(24, 69, 59); background-color:#F4FBFA;}
 .row3{border-top:1px solid #DEDEDE;}
-.row3, .row3 a{color:#555555; background-color:#FFFFFF;}
+.row3, .row3 a{color:#555555; background-color:#F4FBFA;}
 
 /*----------------------------------------------Generalise-------------------------------------*/
 
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:bold; fo
 
 address{font-style:normal;}
 
-blockquote, q{display:block; padding:8px 10px; color:#555555; background-color:#ECECEC; font-style:italic; line-height:normal;}
+blockquote, q{display:block; padding:8px 10px; color:#555555; background-color:#F4FBFA; font-style:italic; line-height:normal;}
 blockquote:before, q:before{content:'� '; font-size:26px;}
 blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 
@@ -74,7 +74,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #header nav li{display:inline; margin-right:100px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
 #header nav li a{}
-#header nav li a:hover{color:rgb(24, 69, 59); background-color:#FFFFFF;}
+#header nav li a:hover{color:rgb(24, 69, 59); background-color:#F4FBFA;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
 
@@ -114,7 +114,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #container #right_column nav li{margin:0 0 3px 0; padding:0;}
 #container #right_column nav li.last{margin-bottom:0;}
 #container #right_column nav a{display:block; margin:0; padding:5px 10px 5px 20px; color:#666666; background:url("../images/black_file.gif") no-repeat 10px center #FFFFFF; text-decoration:none; border-bottom:1px dotted #666666;}
-#container #right_column nav a:hover{color:rgb(24, 69, 59); background-color:#FFFFFF;}
+#container #right_column nav a:hover{color:rgb(24, 69, 59); background-color:#F4FBFA;}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
