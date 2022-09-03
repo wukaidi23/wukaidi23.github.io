@@ -41,7 +41,7 @@ q:after{content:' �'; font-size:26px; line-height:0;}
 div.wrapper{display:block; width:960px; margin:0 auto; padding:5px; text-align:left;}
 
 .row1, .row1 a{color:#555555; background-color:#fbf9f3;}
-.row2{color:#555555; background-color:#F4FBFA;}
+.row2{color:#555555; background-color:#fbf9f3;}
 .row2 a{color:rgb(24, 69, 59); background-color:#fbf9f3;}
 .row3{border-top:1px solid #DEDEDE;}
 .row3, .row3 a{color:#555555; background-color:#fbf9f3;}
